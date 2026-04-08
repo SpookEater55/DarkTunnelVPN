@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=DarkTunnelVPN
+Comment=Simple & Secure VPN Manager for Nobara OS
+Exec=python3 /home/$USER/DarkTunnelVPN.py
+Icon=network-vpn
+Type=Application
+Categories=Network;Security;
+Terminal=false
+StartupNotify=true
